@@ -1,16 +1,38 @@
-### Hi there 👋
 
-<!--
-**SK-Fast/SK-Fast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ![Hello there! 👋](https://i.imgur.com/N5FIbOJ.png)
 
-Here are some ideas to get you started:
+![enter image description here](https://i.imgur.com/FgXjMSv.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```mermaid
+graph LR
+A-->B
+B-->C
+C-->A
+A[got idea]
+B[tell everyone]
+C[work on it]
+D[finish project]
+```
+
+![stats:](https://i.imgur.com/Bozx1NQ.png)
+
+![profile crap](https://github-readme-stats.vercel.app/api?username=SK-Fast)
+
+![devpixels & baggy conversation](https://i.imgur.com/KPhdh3G.png)
+```mermaid
+sequenceDiagram
+baggy->> devpixels: hi
+devpixels-->>baggy: stfu
+baggy->> devpixels: plz fix bot
+devpixels-->>baggy: [cat twerk.gif]
+devpixels-->>baggy: PLZ ACCEPT MY DECALS!!!
+devpixels-->>baggy: PLZ ACCEPT MY DECALS!!!
+devpixels-->>baggy: PLZ ACCEPT MY DECALS!!!
+devpixels-->>baggy: PLZ ACCEPT MY DECALS!!!
+devpixels-->>baggy: PLZ ACCEPT MY DECALS!!!
+devpixels-->>baggy: PLZ ACCEPT MY DECALS!!!
+devpixels-->>baggy: PLZ ACCEPT MY DECALS!!!
+devpixels-->>baggy: PLZ ACCEPT MY DECALS!!!
+devpixels-->>baggy: PLZ ACCEPT MY DECALS!!!
+devpixels-->>baggy: PLZ ACCEPT MY DECALS!!!
+devpixels-->>baggy: PLZ ACCEPT MY DECALS!!!
