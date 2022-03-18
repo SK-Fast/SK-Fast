@@ -10,7 +10,7 @@ B-->C
 C-->A
 A[got idea]
 B[tell everyone]
-C[work on it]
+C[get bored]
 D[finish project]
 ```
 
