@@ -10,4 +10,19 @@
  
  <hr>
 
-hi hi hi i'm devy hi hi. student at rayongwittayakom school. passionate on creating crazy stuff.
+hi hi hi i'm devy hi hi.
+
+# positions
+- student @ rayongwittayakom school
+- client developer [@Polytoria](https://github.com/Polytoria)
+
+# reward n stuff
+## 2023
+- 🙌 national software contest, national round (entry)
+- ✅ national software contest, 1st round (passed)
+## 2022
+- 🥈 national round of 70th sillapa contest, 10th sliver coin
+- 🥇 1st round of 70th sillapa contest, 1st
+
+# get in yo contact
+- discord: devpx
