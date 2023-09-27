@@ -14,7 +14,6 @@ hi hi hi i'm devy hi hi.
 
 # positions
 - student @ rayongwittayakom school
-- client developer [@Polytoria](https://github.com/Polytoria)
 
 # reward n stuff
 ## 2023
